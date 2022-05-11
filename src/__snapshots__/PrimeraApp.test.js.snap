@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba <PrimeraApp /> Validar render de <PrimeraApp/> 1`] = `
+<div>
+  <h1>
+    Hola mundo
+  </h1>
+  <p>
+    Esto es una prueba
+  </p>
+</div>
+`;
